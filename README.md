@@ -30,19 +30,14 @@ Aqui está uma prévia do jogo em ação:
 
 ---
 
-## **📂 Estrutura do Projeto**
-
-```plaintext
-SnakeGame/
-│
-├── main.py              # Arquivo principal que inicializa o jogo
-├── snake.py             # Classe para controlar o comportamento da cobra
-├── food.py              # Classe para controlar o comportamento dos alimentos
-├── scoreboard.py        # Classe para gerenciar a pontuação
-├── requirements.txt     # Dependências do projeto
-└── README.md            # Documentação do projeto
+## **Contribuição**
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias ou novas funcionalidades.
 
 ---
+
+## **Contato**
+Desenvolvido pro Fabrício Nicodemos
+📫 Entre em contato: fabricio.nicodemos@outlook.com
 
 ## **Como Executar o Projeto**
 1. Certifique-se de ter o **Python 3.12+** instalado em sua máquina.
