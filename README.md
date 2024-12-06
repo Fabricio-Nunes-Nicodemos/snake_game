@@ -32,7 +32,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 
 ## **Contato**
-Desenvolvido pro Fabrício Nicodemos\n
+Desenvolvido pro Fabrício Nicodemos\**
 📫 Entre em contato: fabricio.nicodemos@outlook.com
 
 ## **Como Executar o Projeto**
