@@ -19,8 +19,6 @@ Aqui está uma prévia do jogo em ação:
   <img src="img/GIF_jogo_da_cobra.gif" alt="Snake Game GIF" width="400">
 </div>
 
----
-
 ## **🛠️ Tecnologias Utilizadas**
 - **Python 3.12**
 - **Turtle**: Renderização gráfica simples.
@@ -28,15 +26,13 @@ Aqui está uma prévia do jogo em ação:
 - **Random**: Elementos aleatórios no jogo.
 - **Programação Orientada a Objetos (POO)**: Para modularizar o código
 
----
 
 ## **Contribuição**
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias ou novas funcionalidades.
 
----
 
 ## **Contato**
-Desenvolvido pro Fabrício Nicodemos
+Desenvolvido pro Fabrício Nicodemos\n
 📫 Entre em contato: fabricio.nicodemos@outlook.com
 
 ## **Como Executar o Projeto**
